@@ -20,4 +20,10 @@ Salida:
           -FUNDAMENTOS DE PROGRAMACION                  70
           -MATEMATICAS DISCRETAS                        80
 ------------------------------------------------------------------
-      -Promedio:                                        60
+      -Promedio:                                        75
+------------------------------------------------------------------
+
+
+##Etapa 3. Diseño de la solucion
+Diagrama de clase
+
