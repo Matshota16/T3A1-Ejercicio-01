@@ -24,8 +24,8 @@ Salida:
 ------------------------------------------------------------------
 
 
-##Etapa 3. Diseño de la solucion
+## Etapa 3, Diseño de la solucion
 Diagrama de clase
 ![](https://github.com/Matshota16/T3A1-Ejercicio-01/blob/main/T3A1.png)
 
-##Etapa 4. Desarollo de la solucion
+## Etapa 4, Desarollo de la solucion
